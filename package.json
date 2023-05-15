@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "HOC to allow you to use redux without the need of a single root provider",
   "main": "lib/index.js",
-  "module": "es/index.js",
+  "module": "lib/index.js",
   "files": [
     "dist",
     "lib",
